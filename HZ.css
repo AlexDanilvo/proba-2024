@@ -1,0 +1,12 @@
+body {
+    font-family: "Playwrite US Trad", cursive;
+}
+
+h1, h2 {
+    font-family: "Times New Roman", serif;
+}
+
+p {
+    font-size: 20px;
+    color: brown;
+}
